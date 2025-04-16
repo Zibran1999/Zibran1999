@@ -35,9 +35,7 @@ I'm a  **Android Developer** with over **2 years** of experience. My expertise s
 
 ### 📈 GitHub Commit Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zibran1999&theme=dark" alt="GitHub Contribution Graph" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zibran1999&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
 
 ---
 
